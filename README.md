@@ -54,6 +54,7 @@ New here? Great to have you. Here’s how to get going:
 5. **Follow news & blog:** [Mautic Blog](https://www.mautic.org/blog) for updates, releases, and events  
 
 
+
 ## Working Groups & Community Structure
 
 The Mautic project is structured through teams and working groups which support different elements of the project’s lifecycle and community governance.  
@@ -75,16 +76,60 @@ Join the Mautic Community [Forum](https://forum.mautic.org) or [Slack](https://m
 
 ## Get Involved
 
-You don’t have to be a developer — there are many ways to contribute:
+There are many ways to support and grow the Mautic community.
+
+### Contribute Your Skills
+
+You don’t have to be a developer — every contribution counts:
 
 - ✍️ Improve or translate documentation  
-- 🐞 Fix bugs or propose features  
-- 🎨 Design email templates, UI, or graphics  
-- 📣 Write blog posts and promote Mautic  
-- 🌐 Manage community spaces and moderation  
+- 🐞 Fix bugs or propose new features  
+- 🎨 Design email templates, UI components, or graphics  
+- 📣 Write blog posts, create tutorials, or promote Mautic  
+- 🌐 Help manage community spaces or moderate discussions  
 - 📚 Teach, mentor, or host local meetups  
 
-Start by checking **“good first issues”** on GitHub or joining discussions in the forums.
+Start by checking **[good first issues](https://github.com/mautic/mautic/contribute)** on GitHub or joining discussions in the **[forums](https://forum.mautic.org)**.
+
+### Become a Member
+
+Join the community today! As a member, you will:
+
+- Get early access to updates and events  
+- Contribute ideas and feedback to guide our roadmap  
+- Collaborate with other passionate members  
+
+Membership is open to everyone. Join now at **[mau.tc/membership](https://mau.tc/membership)**.
+
+### Financial Support
+
+Your donations help us maintain tools and fund new initiatives. You can support Mautic through:
+
+- One-time donations  
+- Monthly sponsorships  
+- Corporate sponsorships  
+
+Every contribution helps us move closer to our mission. Support Mautic via **[Open Collective](https://opencollective.com/mautic)** or learn more on **[mautic.org/donate](https://www.mautic.org/donate)**.
+
+### Partner With Us
+
+We welcome partnerships with organizations, communities, and institutions that share our vision.  
+You can:
+
+- Collaborate on initiatives or events  
+- Sponsor open-source projects  
+- Provide tools, resources, or mentorship  
+
+Learn more about becoming a partner at **[mautic.org/become-a-mautic-partner](https://www.mautic.org/become-a-mautic-partner/)**.
+
+### Our Members & Partners
+
+We’re grateful to the organizations that support Mautic through membership, partnership, and sponsorship.  
+Their contributions sustain the project and help it grow.
+
+Explore the full directory → **[mautic.org/members-partners](https://www.mautic.org/members-partners/)**
+
+<img width="1466" height="370" alt="Mautic Partners" src="https://github.com/user-attachments/assets/a8233218-27cb-499c-ae91-1182cd0e2493" />
 
 
 
