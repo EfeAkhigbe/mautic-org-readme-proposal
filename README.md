@@ -49,7 +49,7 @@ New here? Great to have you. Here’s how to get going:
  
 1. Visit the [Mautic official website](https://www.mautic.org).  
 2. [Download or self-host Mautic](https://github.com/mautic/mautic) — run it on your own infrastructure.  
-3. Read the [User Documentation](https://docs.mautic.org) and [Developer Docs](https://developer.mautic.org). 
+3. Read the [User Documentation](https://docs.mautic.org) and [Developer Documentation](https://developer.mautic.org). 
 4. Join our community on the [Forums](https://forum.mautic.org) or [Slack](https://mautic.org/slack). 
 5. Follow the [Mautic Blog](https://www.mautic.org/blog) for news, releases, and events.  
 6. Learn more about becoming our partner on the [Become a Mautic Partner](https://www.mautic.org/become-a-mautic-partner) page.
@@ -124,7 +124,7 @@ Your donations help us maintain tools and fund new initiatives. You can support 
 - Monthly sponsorships.  
 - Corporate sponsorships.
 
-Every contribution helps us move closer to our mission. Support Mautic via [Open Collective](https://opencollective.com/mautic) or [learn more](https://www.mautic.org/donate).
+Every contribution helps us move closer to our mission. You can support Mautic on [Open Collective](https://opencollective.com/mautic) or [learn more](https://mautic.org/sponsor-mautic/) about how to sponsor.
 
 ### Partner With Us
 
@@ -171,7 +171,7 @@ Community participation is powered by people from all around the world.
 - 📘 [Facebook](https://www.facebook.com/MauticCommunity/)
 - 🧵 [Threads](https://threads.net/@mauticcommunity)
 - 📸 [Instagram](https://instagram.com/MauticCommunity)
-- 💸 [opencollective.com/mautic](https://opencollective.com/mautic)
+- 💸 [Opencollective](https://opencollective.com/mautic)
 
 
 
